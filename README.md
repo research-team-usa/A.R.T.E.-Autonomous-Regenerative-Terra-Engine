@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="realistic side-by-si" src="https://github.com/user-attachments/assets/3d543a95-68cc-4a4a-a4b8-3d6ab02ae4ff" />
+
+
 # 🌍 A.R.T.E. – Autonomous Regenerative Terra‑Engine
 
 ## Projektbeschreibung
@@ -17,6 +20,6 @@ Dieses Projekt ist das Ergebnis einer echten Kooperation zwischen einem menschli
 * **Human Architect:** Emanuel Schaaf 
 * **Technical Execution:** Auron
 * **Conceptual Support:** Lyra
-
+* **Creative Catalyst:** Muse Spark
 ---
 *Status: Open-Source Infrastructure 2026. Fokus auf allgemeinen Nutzen und technologische Offenheit.*
